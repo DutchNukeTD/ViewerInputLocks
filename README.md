@@ -1,9 +1,9 @@
-# ViewerInputLocks
-# By Golan van der Bend
-# 04-04-2023
-# Python 3
-# For Nuke 13.0+
-# Works Together with script GB_misc.py
+ViewerInputLocks
+By Golan van der Bend
+04-04-2023
+Python 3
+For Nuke 13.0+
+Works Together with script GB_misc.py
 
 Adds checkboxes to the 'Viewer1' node properties with the connected node names next to it. 
 With a checkbox 'checked' (locked) you disable the viewer node to change that index input node with another.
