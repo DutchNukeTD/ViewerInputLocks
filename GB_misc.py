@@ -6,6 +6,10 @@ import random
 import os
 import textwrap
 
+# Changed the original Nuke misc connect_selected_to_viewer script. 
+# Added function 'indexInfo' and all after 'added by Golan'.
+# Everytime the script 'connect_selected_to_viewer' is called is checks if the checkbox is locked and change the nodeName values. 
+
 ###############################################################################
 def indexInfo(index):
     # info inputIndex 
