@@ -6,6 +6,9 @@ For Nuke 13.0+
 Works Together with script GB_misc.py
 
 ## info
+
+****** __Only works when viewer node is called 'Viewer1' without ''__ ******
+
 Adds checkboxes to the 'Viewer1' node properties with the connected node names next to it. 
 With a checkbox 'checked' (locked) you disable the viewer node to change that index input node with another.
 
