@@ -1,26 +1,9 @@
 # Python 3
-# 2023-03-21
+# 2023-04-04
 # Golan version of the viewer node
 # Works Together with script GB_misc.py
 
-# Adds lock buttons with names next to it
-# This script is called at 'menu.py'
-# When lock is enabled and viewer is connected to a node at that input is wound switch anymore. 
-# Unless you unlock is again. 
-
-# Add to menu.py:
-# # Viewer menu + shortcut
-# def openViewerPanelLock():
-#     nuke.toNode('Viewer1').showControlPanel()
-#     nuke.toNode('Viewer1').setTab(3)
-# nuke.menu('Nuke').addCommand('Viewer/viewer locks', 'openViewerPanelLock()', 'alt+v')
-
-# # Import misc_Golan # Copy from original. 
-# import GB_misc
-# nukescripts.connect_selected_to_viewer = GB_misc.connect_selected_to_viewer
-
-
-
+# Add buttons to the 'Viewer1' node. 
 
 import nuke
 
