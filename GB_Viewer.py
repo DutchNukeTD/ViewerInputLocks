@@ -121,8 +121,6 @@ def viewer():
                 viewerNode.addKnob(extraTip)
 
         else: 
-            #nuke.message("Dit 'viewerNode.knob Locks' is net gevonden!") --> Message wordt getoond
-            # Setting the lock knobs flags again. It seems it doens't get saved.
             pass
 
         # Default settings locks: 
