@@ -12,6 +12,9 @@ Works Together with script GB_misc.py
 Adds checkboxes to the 'Viewer1' node properties with the connected node names next to it. 
 With a checkbox 'checked' (locked) you disable the viewer node to change that index input node with another.
 
+![Viewer_locks](https://user-images.githubusercontent.com/105785047/230105745-053da5a1-651b-4c54-a641-1ffa0a6876f6.jpg)
+
+
 *Extra*
 With the nodes connected to the 'Viewer1' node you can now:
 -Set these nodes as input to a selected node (shift+index).
